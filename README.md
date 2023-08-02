@@ -13,6 +13,11 @@
 
    `git config user.name`  e  `git config user.email`
 
+- Mudar de usuario e e-mail de forma global:
+
+    `git config --global user.name "Seu nome como quiser"`
+    `git config --global user.email "seuemail@provedor.com"`
+
 - Inicializar um repositorio (Executado dentro da pasta):
 
    `git init`
