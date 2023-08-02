@@ -42,3 +42,7 @@
 - Adicionar/conectar o repositorio remoto ao local:
 
     `git remote add origin endereco-do-repositorio.git`
+
+- Copiando/baixando um repositório para a máquina remota:
+
+    `git clone endereço-do-repositorio.git`
