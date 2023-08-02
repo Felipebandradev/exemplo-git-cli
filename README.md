@@ -50,3 +50,7 @@
 - Enviar as mudanças para o github(Push):
 
     `git push origin main`
+
+- Pegar/obter as mudanças do repositório github(Pull):
+
+    `git pull origin main`
