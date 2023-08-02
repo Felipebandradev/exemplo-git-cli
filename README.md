@@ -22,6 +22,11 @@
 
    `git init`
 
+- renomear a branchs: 
+
+    `git branch nome-branch-atual novo-nome-para-branch` <br>
+    para renomear a branch de **master** para **main** (novo padrão),usaríamos: `git branch master main`
+
 - Verificar status atual do repositorio:
 
   `git status`
@@ -34,7 +39,6 @@
 
     `git commit -m "Texto da menssagem sobre está alteração"`
 
+- Adicionar/conectar o repositorio remoto ao local:
 
-
-
-
+    `git remote add origin endereco-do-repositorio.git`
