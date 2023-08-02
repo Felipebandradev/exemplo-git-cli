@@ -46,3 +46,7 @@
 - Copiando/baixando um repositório para a máquina remota:
 
     `git clone endereço-do-repositorio.git`
+
+- Enviar as mudanças para o github(Push):
+
+    `git push origin main`
