@@ -15,8 +15,8 @@
 
 - Mudar de usuario e e-mail de forma global:
 
-    `git config --global user.name "Seu nome como quiser"` <br>
-    `git config --global user.email "seuemail@provedor.com"`
+    `git config --global user.name "Seu nome como quiser` <br>
+    `git config --global user.email "seuemail@provedor.com`
 
 - Inicializar um repositorio (Executado dentro da pasta):
 
@@ -25,6 +25,16 @@
 - Verificar status atual do repositorio:
 
   `git status`
+
+- Adicionar (tornar arquivo rastreavel) ao monitoramento do git:
+
+    `git add nomedoarquivo` ou `git add .`
+
+- Fazer commit das alterações(salvar no historico) :
+
+    `git commit -m "Texto da menssagem sobre está alteração"`
+
+
 
 
 
