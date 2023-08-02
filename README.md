@@ -9,6 +9,10 @@
 
 ## Comandos pricipais do Git
 
-Inicializar um repositorio (Executado dentro da pasta)
+- Inicializar um repositorio (Executado dentro da pasta)
 
 git init
+
+- Verificar status atual do repositorio
+
+git status
