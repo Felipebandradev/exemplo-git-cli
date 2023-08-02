@@ -1,6 +1,6 @@
 # Exemplos de operações básicas para git via ClI
 
-## Comandos de uso Geral da CLI
+## Comandos de uso Geral da Cli
 
 - Criar pasta: mkdir nomepasta
 - Lista conteudo : dir
